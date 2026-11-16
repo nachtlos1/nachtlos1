@@ -17,10 +17,10 @@ I've spent the past 8–9 months working hands-on in IT support, and I'm buildin
 
 ### 🛠️ Skills
 
-**Data (learning):** Excel · SQL · Python
-**IT support:** Windows installation and configuration · PC building and upgrades · hardware and software troubleshooting
-**Networking:** IP addressing and subnetting · DHCP · router, switch and Wi-Fi setup · network troubleshooting
-**Other:** Linux · Git and GitHub · HTML and CSS
+- **IT support:** Windows installation and configuration · PC building and upgrades · hardware and software troubleshooting
+- **Networking:** IP addressing and subnetting · DHCP · router, switch and Wi-Fi setup · network troubleshooting
+- **Other:** Linux · Git and GitHub · HTML and CSS
+- **Data (learning):** Excel · SQL · Python
 
 ---
 
