@@ -1,0 +1,47 @@
+# Hi, I'm ArcSkt1 👋
+
+**Aspiring data technician and IT professional based in South London.**
+I've spent the past 8–9 months working hands-on in IT support, and I'm building towards a career in data and technology through certifications, practical projects and an apprenticeship.
+
+---
+
+### 🎓 Certifications
+
+| Certification | Status |
+|---|---|
+| CompTIA A+ | ✅ Certified |
+| CompTIA Network+ | ✅ Certified |
+| AWS Certified Cloud Practitioner | 📚 Studying |
+
+---
+
+### 🛠️ Skills
+
+**Data:** Excel (SUMIFS, AVERAGEIFS, charts, data cleaning) · SQL (SQLite) · Python (pandas, matplotlib)
+**IT support:** Windows installation and configuration · PC building and upgrades · hardware and software troubleshooting
+**Networking:** IP addressing and subnetting · DHCP · router, switch and Wi-Fi setup · network troubleshooting
+**Other:** Linux · Git and GitHub · HTML and CSS
+
+---
+
+### 📂 Projects
+
+| Project | What it shows |
+|---|---|
+| ⚡ [UK Electricity Generation Analysis](https://github.com/ArcSkt1/uk-energy-generation-analysis) | 17 years of National Energy System Operator (NESO) grid data: nuclear's role, the end of coal and the rise of wind. Covers data cleaning, Excel, SQL and charts. |
+| 🌐 [Small Network Setup Guide](https://github.com/ArcSkt1/small-network-setup-guide) | Planning, configuring and troubleshooting a small office network: IP scheme, DHCP, Wi-Fi security and a step-by-step troubleshooting guide. |
+| 🖥️ [PC Build & Troubleshooting Guide](https://github.com/ArcSkt1/pc-build-troubleshooting-guide) | A Ryzen 7 7800X3D / RTX 4070 build, plus a real power-supply fault diagnosed using the CompTIA troubleshooting method. |
+
+---
+
+### 🌱 Currently
+
+- Studying for **AWS Cloud Practitioner**
+- Building more **data projects** in Excel, SQL and Python
+- Experimenting with **Linux** on my own PC
+
+---
+
+### 📫 Get in touch
+
+Open to apprenticeship and entry-level opportunities in **data, IT and technology**.
