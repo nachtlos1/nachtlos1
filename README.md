@@ -17,7 +17,7 @@ I've spent the past 8–9 months working hands-on in IT support, and I'm buildin
 
 ### 🛠️ Skills
 
-**Data:** Excel (SUMIFS, AVERAGEIFS, charts, data cleaning) · SQL (SQLite) · Python (pandas, matplotlib)
+**Data (learning):** Excel · SQL · Python
 **IT support:** Windows installation and configuration · PC building and upgrades · hardware and software troubleshooting
 **Networking:** IP addressing and subnetting · DHCP · router, switch and Wi-Fi setup · network troubleshooting
 **Other:** Linux · Git and GitHub · HTML and CSS
@@ -31,6 +31,7 @@ I've spent the past 8–9 months working hands-on in IT support, and I'm buildin
 | 🌐 [Small Network Setup Guide](https://github.com/nachtlos1/small-network-setup-guide) | Planning, configuring and troubleshooting a small office network: IP scheme, DHCP, Wi-Fi security and a step-by-step troubleshooting guide. |
 | 🐧 [Linux on a MacBook Air M2](https://github.com/nachtlos1/macbook-air-m2-asahi-linux) | Installing Fedora Asahi Remix (GNOME) natively on Apple Silicon and dual-booting with macOS: partitioning, ARM64 software and boot setup. |
 | 🎮 [Bloodborne on PC with shadPS4](https://github.com/nachtlos1/bloodborne-pc-shadps4) | Running my own PS4 game on PC with an open-source emulator: setup, Vulkan, settings and log-based troubleshooting. |
+| 📼 [MiniDV London Landmarks](https://github.com/nachtlos1/minidv-london-landmarks) | Filming London landmarks on a Sony DCR-TRV19E MiniDV camcorder and transferring the tapes to a Windows 11 PC over FireWire: drivers, capture and video formats. |
 | 🖥️ [PC Build & Troubleshooting Guide](https://github.com/nachtlos1/pc-build-troubleshooting-guide) | A Ryzen 7 7800X3D / RTX 5070 build, plus a real power-supply fault diagnosed using the CompTIA troubleshooting method. |
 
 ---
