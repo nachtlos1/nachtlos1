@@ -30,6 +30,8 @@ I've spent the past 8–9 months working hands-on in IT support, and I'm buildin
 |---|---|
 | ⚡ [UK Electricity Generation Analysis](https://github.com/ArcSkt1/uk-energy-generation-analysis) | 17 years of National Energy System Operator (NESO) grid data: nuclear's role, the end of coal and the rise of wind. Covers data cleaning, Excel, SQL and charts. |
 | 🌐 [Small Network Setup Guide](https://github.com/ArcSkt1/small-network-setup-guide) | Planning, configuring and troubleshooting a small office network: IP scheme, DHCP, Wi-Fi security and a step-by-step troubleshooting guide. |
+| 🐧 [Linux on a MacBook Air M2](https://github.com/ArcSkt1/macbook-air-m2-asahi-linux) | Installing Fedora Asahi Remix (GNOME) natively on Apple Silicon and dual-booting with macOS: partitioning, ARM64 software and boot setup. |
+| 🎮 [Bloodborne on PC with shadPS4](https://github.com/ArcSkt1/bloodborne-pc-shadps4) | Running my own PS4 game on PC with an open-source emulator: setup, Vulkan, settings and log-based troubleshooting. |
 | 🖥️ [PC Build & Troubleshooting Guide](https://github.com/ArcSkt1/pc-build-troubleshooting-guide) | A Ryzen 7 7800X3D / RTX 4070 build, plus a real power-supply fault diagnosed using the CompTIA troubleshooting method. |
 
 ---
